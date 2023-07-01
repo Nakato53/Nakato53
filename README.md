@@ -2,7 +2,6 @@
 I'm Nakato53, a french youtuber, speaking about web developpment. On this page you will find all of the code snippets that I share on my youtube channel.
 
 #### 🔗 Link to my Youtube channel
-
 [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@nakato53)
 
 ### Languages
