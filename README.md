@@ -15,7 +15,7 @@ I'm Nakato53, speaking about web developpment. On this page you will find all of
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Nakato53)
-[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/u/Nakato53)
+[![Symfony](https://img.shields.io/badge/symfony-green?style=for-the-badge&logo=symfony)](https://github.com/u/Nakato53)
 [![Nest](https://img.shields.io/badge/nest-black?style=for-the-badge&logo=nestjs)](https://github.com/u/Nakato53)
 [![Foal](https://img.shields.io/badge/foalts-blue?style=for-the-badge&logo=foal)](https://github.com/u/Nakato53)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/u/Nakato53)
