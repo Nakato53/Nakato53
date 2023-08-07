@@ -10,13 +10,15 @@ I'm Nakato53, speaking about web developpment. On this page you will find all of
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Nakato53)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Nakato53)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Nakato53)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Nakato53)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Nakato53)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/u/Nakato53)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/u/Nakato53)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Nakato53)
-[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://hub.docker.com/u/Nakato53)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Nakato53)
+[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/u/Nakato53)
+[![Nest](https://img.shields.io/badge/nest-black?style=for-the-badge&logo=nestjs)](https://github.com/u/Nakato53)
+[![Foal](https://img.shields.io/badge/foalts-blue?style=for-the-badge&logo=foal)](https://github.com/u/Nakato53)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/u/Nakato53)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)](https://github.com/Nakato53)
